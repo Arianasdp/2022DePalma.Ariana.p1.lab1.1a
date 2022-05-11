@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652289152 source:c:\programación1 copia\depalmaariana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"trabajo.h"
+
+1652284669 c:\programación1 copia\depalmaariana\notebook.h
+
+1652285564 source:c:\programación1 copia\depalmaariana\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+
+1652289172 c:\programación1 copia\depalmaariana\trabajo.h
+
+1652289032 source:c:\programación1 copia\depalmaariana\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
